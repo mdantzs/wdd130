@@ -25,7 +25,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: #fcfbfb; 
+    background-color: #9c833c; 
 }
 header {
     background-color: rgba(20,30,13, .7);
@@ -65,17 +65,17 @@ footer a:hover {
     color: rgb(3, 3, 3);
 }
 h4 {
-    color: white;
+    color: rgb(149, 122, 30);
 }
 .book:hover, .join:hover {
     background-color: #050505;
     color: white;
 }
 .msg h2 {
-    color: white;
+    color: rgb(32, 65, 82);
 }
 .msg p {
-    color: white;
+    color: rgb(32, 66, 59);
 }
 .logo {
     width: 80px;
