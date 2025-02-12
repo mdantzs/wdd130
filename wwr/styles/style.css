@@ -57,7 +57,6 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-}
 footer a:hover {
     color: white;
 }
@@ -95,7 +94,7 @@ footer .social img {
     padding-top: 15px;
 }
 .rivers-card, .camping-card, .rapids-card {
-    background-color: white
-    padding 15px;
+    background-color: white;
+    padding: 15px;
     margin: 200px 0;
 }
