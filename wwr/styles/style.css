@@ -8,7 +8,6 @@ nav a {
     color: white;
     text-align: center;
     text-decoration: none;
-    padding: 35px;
 }
 #hero-msg {
     text-align: center;
@@ -18,7 +17,6 @@ nav a {
 }
 .button-box {
     text-align: center;
-    color: black;
 }
 main section {
     text-align: center;  
@@ -27,14 +25,7 @@ main section {
     height: 725px;
 }
 body {
-    background-color: white; 
-    font-family: Raleway, Arial, sans-serif;
-    font-size: 22px;
-    margin: 0;
-    padding: 0;
-}
-h2 {
-    margin: 0;
+    background-color: #f5f1e6; 
 }
 header {
     background-color: rgba(20,30,13, .7);
@@ -44,33 +35,20 @@ nav a:hover {
     color: white;
 }
 .book, .join {
-    background-color: #d9c2a3;
-    color: black;
+    background-color: #f7f7f7;
     text-decoration: none;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
-}
-.card-img {
-    border: 10px solid #d9c2a3;
-}
-main section img {
-    box-sizing: border-box;
 }
 #background {
     height: 725px;
 }
 .msg {
     background-color: rgba(20,30,13, .7);
-    padding: 35px;
 }
 footer {
-    background-color: rgba(20,30,13, .7);
-    padding: 25px 50px;
-    margin-top: 200px;
+    background-color: rgba(239, 242, 237, 0.7);
 }
 footer a {
-    color: white;
+    color: rgb(12, 12, 12);
     text-decoration: none;
 }
 footer p {
@@ -78,6 +56,7 @@ footer p {
 }
 footer p a:hover {
     text-decoration: underline;
+}
 }
 footer a:hover {
     color: white;
